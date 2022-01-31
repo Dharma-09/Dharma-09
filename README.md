@@ -25,9 +25,9 @@ func main() {
   me := &Me{
     Pronouns: "He/Him",
     Code: "Bash,Javascript and Python",
-    BestAndFavoriteSkill: "Web Hacking :D"
+    BestAndFavoriteSkill: "Web Hacking :D",
   }
   _ = me
 }
 ```
-<p><a href="https://www.buymeacoffee.com/dharma09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dharma09" /></a></p><br><br
+
