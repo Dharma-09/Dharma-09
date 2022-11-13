@@ -16,17 +16,19 @@ Coming to the practical implementation, I love making scripts in Bash and tools 
 
 ```go
 package main
+
 import "fmt"
+
 type Me struct {
-	Pronouns             string
+	Pseudonym            string
 	Code                 string
 	BestAndFavoriteSkill string
 }
 
 func main() {
 	me := &Me{
-		Pronouns:             "He/Him",
-		Code:                 "Bash,Javascript and Python",
+		Pseudonym:            "Dharma ->",
+		Code:                 "Bash, Javascript and Python",
 		BestAndFavoriteSkill: "Web Hacking :D",
 	}
 	fmt.Println(*me)
