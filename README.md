@@ -1,15 +1,13 @@
-<h2> Hi, I'm Dharmik Gangani</h2>
-
-<p><em>Security Enthusiast and Cloud Developer <br><br>
- I am an Information and Technology Engineer currently studying at Gujarat Technological University, with a keen interest in Devops and Cloud computing.
-
-Coming to practical implementation, I love making scripts in Bash and tools in Golang to automate processes that take lots of time while pen testing web applications. The way of doing that made me think of writing blogs on the hunting Bugs so that I can share my experience with other enthusiasts
-</em></p>
-
-
+<h2> 👋 Hi, I'm Dharmik Gangani</h2>
+- 👀 I’m interested in ... DevOps/System Engineering and cloud Development/Architecture <br>
+- 🌱 I’m currently learning ... Rust Lang <br>
+- 💞️ I’m looking to collaborate on ... Open Source project which builds on Go, Python, and Rust <br>
+- 📫 How to reach me ... <br> <br>
 [![Twitter: im_dharma09](https://img.shields.io/twitter/follow/im_dharma09?style=flat-square)](https://twitter.com/im_dharma09)
-[![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
-[![Paypal dharma09](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/im_dharma09)
+[![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09) <br>
+[![Paypal dharma09](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/im_dharma09) <br>
+
+Open Source Code Explorer, Enthusiast, and Archeo Arkeolo Archaeologist, that's it!
 
 ### More about me...
 
