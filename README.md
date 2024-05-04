@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dharmik Gangani</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Dharma-09&show_icons=true&theme=radical" width="380">
+
 <p><em>Security Enthusiast and Cloud Developer <br><br>
  I am an Information and Technology Engineer currently studying at Gujarat Technological University, with a keen interest in Devops and Cloud computing.
 
