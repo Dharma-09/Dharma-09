@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning ... Rust Lang <br>
 - 💞️ I’m looking to collaborate on ... Open Source project which builds on Go, Python, and Rust <br>
 - 📫 How to reach me ... <br> <br>
+
+
 [![Twitter: im_dharma09](https://img.shields.io/twitter/follow/im_dharma09?style=flat-square)](https://twitter.com/im_dharma09)
-[![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09) <br>
-[![Paypal dharma09](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/im_dharma09) <br>
+[![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
+[![Paypal dharma09](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/im_dharma09)
 
 Open Source Code Explorer, Enthusiast, and Archeo Arkeolo Archaeologist, that's it!
 
