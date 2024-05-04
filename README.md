@@ -1,8 +1,7 @@
 <h2> Hi, I'm Dharmik Gangani</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Dharma-09&show_icons=true&theme=radical" width="380">
-<p><em>Security Enthusist and Cloud Developer <br><br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
- I am an Information and Technology Engineer who is currently studying at Gujarat Technological University, who has a keen interest in Web Application Security and Cloud computing.
+<p><em>Security Enthusiast and Cloud Developer <br><br>
+ I am an Information and Technology Engineer currently studying at Gujarat Technological University, with a keen interest in Devops and Cloud computing.
 
 Coming to practical implementation, I love making scripts in Bash and tools in Golang to automate processes that take lots of time while pen testing web applications. The way of doing that made me think of writing blogs on the hunting Bugs so that I can share my experience with other enthusiasts
 </em></p>
