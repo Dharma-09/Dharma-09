@@ -4,8 +4,17 @@
 - 💞️ I’m looking to collaborate on ... Open Source project which builds on Go, Python, and Rust <br>
 - 📫 How to reach me ... <br> <be>
 
-
-[Dharmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharma-09&theme=ambient_gradient&show_icons=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Dharma-09&theme=ambient_gradient&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Dharma-09&theme=ambient_gradient&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharma-09&theme=ambient_gradient&show_icons=true" />
+</picture>
 
 [![Twitter: im_dharma09](https://img.shields.io/twitter/follow/im_dharma09?style=flat-square)](https://twitter.com/im_dharma09)
 [![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
