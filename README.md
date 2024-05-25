@@ -8,13 +8,13 @@
 [![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
 [![Paypal dharma09](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/im_dharma09)
 
-## Open Source Contribution
-**✨ My Recent Activity**
+## ✨ My Recent Activity
+**Open Source Contribution**
 
 1. 🎉 Merged PR [#8122](https://github.com/wagtail/wagtail/pull/8122) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
 2. ❗ Opened issue [#6859](https://github.com/kubernetes/autoscaler/pull/6859) in [kubernetes/autoscaler/](https://github.com/kubernetes/autoscaler/)
 ---
-📕 Latest Blog Posts
+**📕 Latest Blog Posts**
  - [Detects vulnerable Solidity code with Slither](https://dharma1.netlify.app/blog/Detects-vulnerability-with-Slither)
 
 <h3 align="left">Languages and Tools ⚙️</h3>
