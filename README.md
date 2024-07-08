@@ -33,16 +33,27 @@ type Me struct {
 	Pseudonym            string
 	Code                 string
 	BestAndFavoriteSkill string
+	Certifications       []string
+}
+
+func (m *Me) PrintInfo() {
+	fmt.Println("Pseudonym: ", m.Pseudonym)
+	fmt.Println("Code: ", m.Code)
+	fmt.Println("Best and Favorite Skill: ", m.BestAndFavoriteSkill)
+	fmt.Println("Certifications: ")
+	for _, cert := range m.Certifications {
+		fmt.Println("- ", cert)
+	}
 }
 
 func main() {
 	me := &Me{
-		Pseudonym:            "Dharma ->",
+		Pseudonym:            "Dharma",
 		Code:                 "GoLang, Javascript and Python",
 		BestAndFavoriteSkill: "Web Hacking :D",
+		Certifications:       []string{"ESCA", "AWS cloud practitioner"},
 	}
-	fmt.Println(*me)
-}
-
+	me.PrintInfo()
+} //To run this code use go run file_n.go
 ```
 
