@@ -12,7 +12,7 @@
 **Open Source Contribution**
 
 1. 🎉 Merged PR [#8122](https://github.com/wagtail/wagtail/pull/8122) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-2. ❗ Opened issue [#6859](https://github.com/kubernetes/autoscaler/pull/6859) in [kubernetes/autoscaler/](https://github.com/kubernetes/autoscaler/)
+2. 🎉 Merged PR [#6859](https://github.com/kubernetes/autoscaler/pull/6859) in [kubernetes/autoscaler/](https://github.com/kubernetes/autoscaler/)
 ---
 **📕 Latest Blog Posts**
  - [Detects vulnerable Solidity code with Slither](https://dharma1.netlify.app/blog/Detects-vulnerability-with-Slither)
