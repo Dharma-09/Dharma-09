@@ -54,6 +54,6 @@ func main() {
 		Certifications:       []string{"ESCA", "AWS cloud practitioner"},
 	}
 	me.PrintInfo()
-} //To run this code use go run file_n.go
+} //To run this code go run file_n.go
 ```
 
