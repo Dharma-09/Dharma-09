@@ -6,7 +6,7 @@
 
 [![Twitter: im_dharma09](https://img.shields.io/twitter/follow/im_dharma09?style=flat-square)](https://twitter.com/im_dharma09)
 [![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
-[![Paypal dharma09](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/im_dharma09)
+![Linkdin: im_dharma09](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ## ✨ My Recent Activity
 **Open Source Contribution**
