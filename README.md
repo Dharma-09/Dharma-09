@@ -22,7 +22,7 @@
 
 
 
-### More about me...
+### More about me..
 
 ```go
 package main
