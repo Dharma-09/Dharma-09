@@ -16,6 +16,8 @@
 1. 🎉 Merged PR [#8122](https://github.com/wagtail/wagtail/pull/8122) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
 2. 🎉 Merged PR [#6859](https://github.com/kubernetes/autoscaler/pull/6859) in [kubernetes/autoscaler/](https://github.com/kubernetes/autoscaler/)
 3. 🎉 Merged PR [#1872](https://github.com/kolide/launcher/pull/1872) in [Kolide/launcher](https://github.com/kolide/)
+4. 📫 Opened PR [#13310](https://github.com/kubevirt/kubevirt/pull/13310) in [KubeVirt](https://github.com/kubevirt/kubevirt)
+
 ---
 **📕 Latest Blog Posts**
  - [Detects vulnerable Solidity code with Slither](https://dharma1.netlify.app/blog/Detects-vulnerability-with-Slither)
