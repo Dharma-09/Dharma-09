@@ -17,7 +17,7 @@
 2. 🎉 Merged PR [#6859](https://github.com/kubernetes/autoscaler/pull/6859) in [kubernetes/autoscaler/](https://github.com/kubernetes/autoscaler/)
 3. 🎉 Merged PR [#1872](https://github.com/kolide/launcher/pull/1872) in [Kolide/launcher](https://github.com/kolide/)
 4. 📫 Opened PR [#13310](https://github.com/kubevirt/kubevirt/pull/13310) in [KubeVirt/kubevirt](https://github.com/kubevirt/kubevirt)
-5. 📫 Opened PR [#7170](https://github.com/prometheus-operator/prometheus-operator/pull/7170) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+5. 🎉 Merged PR [#7170](https://github.com/prometheus-operator/prometheus-operator/pull/7170) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
 
 ---
 **📕 Latest Blog Posts**
