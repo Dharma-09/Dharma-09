@@ -57,7 +57,7 @@ func main() {
 		Pseudonym:            "Dharma",
 		Code:                 "GoLang, Javascript and Python",
 		BestAndFavoriteSkill: "Web Hacking :D",
-		Certifications:       []string{"ESCA", "AWS cloud practitioner"},
+		Certifications:       []string{"ESCA", "Azure -104"},
 	}
 	me.PrintInfo()
 } //To run this code go run file_n.go
