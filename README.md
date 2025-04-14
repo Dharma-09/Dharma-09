@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I'm Dharmik Gangani</h2>
 - 👀 I’m interested in ... DevOps/System Engineering and cloud Development/Architecture <br>
 - 🌱 I’m currently learning ... Rust Lang <br>
-- 💞️ I’m looking to collaborate on ... Open Source project which builds on Go, Python, and Rust <br>
+- 💞️ I’m looking to collaborate on ... open-source project which builds on Go, Python, and Rust <br>
 - 📫 How to reach me..... <br> <br> <br>.
 
 
