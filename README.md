@@ -49,7 +49,7 @@ func (m *Me) PrintInfo() {
 	fmt.Println("Best and Favorite Skill: ", m.BestAndFavoriteSkill)
 	fmt.Println("Certifications: ")
 	for _, cert := range m.Certifications {
-		fmt.Println("- ", cert)
+		fmt.Println("Azure-104", cert)
 	}
 }
 
