@@ -57,7 +57,7 @@ func main() {
 	me := &Me{
 		Pseudonym:            "Dharma",
 		Code:                 "GoLang, Javascript and Python",
-		BestAndFavoriteSkill: "Web Hacking :D",
+		BestAndFavoriteSkill: "Design secure cloud architectures, harden DevOps pipelines :D",
 		Certifications:       []string{"ESCA", "Azure -104"},
 	}
 	me.PrintInfo()
