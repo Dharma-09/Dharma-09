@@ -18,6 +18,7 @@
 3. 🎉 Merged PR [#1872](https://github.com/kolide/launcher/pull/1872) in [Kolide/launcher](https://github.com/kolide/)
 4. 📫 Closed PR [#13310](https://github.com/kubevirt/kubevirt/pull/13310) in [KubeVirt/kubevirt](https://github.com/kubevirt/kubevirt)
 5. 🎉 Merged PR [#7170](https://github.com/prometheus-operator/prometheus-operator/pull/7170) & [#7241](https://github.com/prometheus-operator/prometheus-operator/pull/7241) & [#7247](https://github.com/prometheus-operator/prometheus-operator/pull/7247) & [7697](https://github.com/prometheus-operator/prometheus-operator/pull/7697#pullrequestreview-3137136222) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+6. 👨‍💻 Open PR [#31303](https://github.com/backstage/backstage/pull/31303) in [Backstage/backstage](https://github.com/backstage/backstage)
 
 ---
 **📕 Latest Blog Posts**
