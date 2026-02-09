@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Generate activity
-        run: python generate_activity.py
+        run: python scripts/generate_activity.py
 
       - name: Commit changes
         run: |
