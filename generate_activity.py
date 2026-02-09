@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-USERNAME = "YOUR_GITHUB_USERNAME"
+USERNAME = "Dharma-09"
 MAX_ITEMS = 10
 
 events = requests.get(
