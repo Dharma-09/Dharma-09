@@ -8,8 +8,6 @@
 [![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
 
 ## ✨ My Recent Activity
-**APP**
-[IssueTracker](https://github.com/apps/trackissues)
 
 **Open Source Contribution**
 
