@@ -1,7 +1,6 @@
 <h2> 👋 Hi, I'm Dharma</h2>
 
 [![Twitter: im_dharma09](https://img.shields.io/twitter/follow/im_dharma09?style=flat-square)](https://twitter.com/im_dharma09)
-[![GitHub Dharma-09](https://img.shields.io/github/followers/Dharma-09?label=follow%20github&style=flat-square)](https://github.com/Dharma-09)
 ![Hi👋](https://komarev.com/ghpvc/?username=Dharma-09&abbreviated=true)
 
 ## ✨ My Recent Activity
